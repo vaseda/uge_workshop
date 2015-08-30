@@ -1,0 +1,15 @@
+git init -
+git commit - commits to the stage
+git branch - creates a new branch but not swich to it
+git checkout - check outs
+git touch - creates a new file
+git status - status of current git repo ans suggests things to do
+git log - history of commits
+git status -
+git add - stages changes for commit
+git config - set configuration values of git
+git remote -v
+git remote add origin https://github.com/cewing/uge-workshop.git -- remote repository
+git remote -v --
+git checkout master -- swiching the brunches
+git push -u origin master -- push your changes back to the github
